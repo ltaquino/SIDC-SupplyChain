@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m2Hl1andCpeSMEDVRvWq3FJs18BN9BiDLkdllpL+KQRrVB+Y5XPRYS3CugcconBv7M2/voeIXfkF5yLcMZNvNA==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Domain\\SIDCSupplyChain.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inad\\.nuget\\packages\\aspnetcorehero.abstractions\\1.0.0\\aspnetcorehero.abstractions.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Infrastructure\\SIDCSupplyChain.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Application\\SIDCSupplyChain.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Application\\SIDCSupplyChain.Application.csproj",
+        "projectName": "SIDCSupplyChain.Application",
+        "projectPath": "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Application\\SIDCSupplyChain.Application.csproj",
+        "packagesPath": "C:\\Users\\inad\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\inad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik Reporting R3 2020\\Bin\\WpfViewerDependencies\\Framework": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Domain\\SIDCSupplyChain.Domain.csproj": {
+                "projectPath": "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Domain\\SIDCSupplyChain.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AspNetCoreHero.Results": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "AspNetCoreHero.ThrowR": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Domain\\SIDCSupplyChain.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Domain\\SIDCSupplyChain.Domain.csproj",
+        "projectName": "SIDCSupplyChain.Domain",
+        "projectPath": "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Domain\\SIDCSupplyChain.Domain.csproj",
+        "packagesPath": "C:\\Users\\inad\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\inad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik Reporting R3 2020\\Bin\\WpfViewerDependencies\\Framework": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AspNetCoreHero.Abstractions": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Infrastructure\\SIDCSupplyChain.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Infrastructure\\SIDCSupplyChain.Infrastructure.csproj",
+        "projectName": "SIDCSupplyChain.Infrastructure",
+        "projectPath": "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Infrastructure\\SIDCSupplyChain.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\inad\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\inad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik Reporting R3 2020\\Bin\\WpfViewerDependencies\\Framework": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Application\\SIDCSupplyChain.Application.csproj": {
+                "projectPath": "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Application\\SIDCSupplyChain.Application.csproj"
+              },
+              "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Domain\\SIDCSupplyChain.Domain.csproj": {
+                "projectPath": "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Domain\\SIDCSupplyChain.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AspNetCoreHero.EntityFrameworkCore.AuditTrail": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "AspNetCoreHero.Extensions.Caching": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "AspNetCoreHero.ThrowR": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[2.10.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

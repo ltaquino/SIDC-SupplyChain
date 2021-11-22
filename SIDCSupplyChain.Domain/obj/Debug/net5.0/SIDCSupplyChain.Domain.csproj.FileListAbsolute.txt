@@ -1,0 +1,12 @@
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Domain\bin\Debug\net5.0\SIDCSupplyChain.Domain.deps.json
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Domain\bin\Debug\net5.0\SIDCSupplyChain.Domain.dll
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Domain\bin\Debug\net5.0\ref\SIDCSupplyChain.Domain.dll
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Domain\bin\Debug\net5.0\SIDCSupplyChain.Domain.pdb
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Domain\obj\Debug\net5.0\SIDCSupplyChain.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Domain\obj\Debug\net5.0\SIDCSupplyChain.Domain.AssemblyInfoInputs.cache
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Domain\obj\Debug\net5.0\SIDCSupplyChain.Domain.AssemblyInfo.cs
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Domain\obj\Debug\net5.0\SIDCSupplyChain.Domain.csproj.CoreCompileInputs.cache
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Domain\obj\Debug\net5.0\SIDCSupplyChain.Domain.dll
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Domain\obj\Debug\net5.0\ref\SIDCSupplyChain.Domain.dll
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Domain\obj\Debug\net5.0\SIDCSupplyChain.Domain.pdb
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Domain\obj\Debug\net5.0\SIDCSupplyChain.Domain.csproj.AssemblyReference.cache

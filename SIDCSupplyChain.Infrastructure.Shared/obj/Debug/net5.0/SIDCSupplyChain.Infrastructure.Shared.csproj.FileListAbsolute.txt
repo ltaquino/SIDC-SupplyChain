@@ -1,0 +1,17 @@
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\bin\Debug\net5.0\SIDCSupplyChain.Infrastructure.Shared.deps.json
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\bin\Debug\net5.0\SIDCSupplyChain.Infrastructure.Shared.dll
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\bin\Debug\net5.0\ref\SIDCSupplyChain.Infrastructure.Shared.dll
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\bin\Debug\net5.0\SIDCSupplyChain.Infrastructure.Shared.pdb
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\bin\Debug\net5.0\SIDCSupplyChain.Application.dll
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\bin\Debug\net5.0\SIDCSupplyChain.Domain.dll
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\bin\Debug\net5.0\SIDCSupplyChain.Application.pdb
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\bin\Debug\net5.0\SIDCSupplyChain.Domain.pdb
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\obj\Debug\net5.0\SIDCSupplyChain.Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\obj\Debug\net5.0\SIDCSupplyChain.Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\obj\Debug\net5.0\SIDCSupplyChain.Infrastructure.Shared.AssemblyInfo.cs
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\obj\Debug\net5.0\SIDCSupplyChain.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\obj\Debug\net5.0\SIDCSupplyChain.Infrastructure.Shared.csproj.CopyComplete
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\obj\Debug\net5.0\SIDCSupplyChain.Infrastructure.Shared.dll
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\obj\Debug\net5.0\ref\SIDCSupplyChain.Infrastructure.Shared.dll
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\obj\Debug\net5.0\SIDCSupplyChain.Infrastructure.Shared.pdb
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Infrastructure.Shared\obj\Debug\net5.0\SIDCSupplyChain.Infrastructure.Shared.csproj.AssemblyReference.cache

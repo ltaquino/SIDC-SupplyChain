@@ -1,0 +1,15 @@
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Application\bin\Debug\net5.0\SIDCSupplyChain.Application.deps.json
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Application\bin\Debug\net5.0\SIDCSupplyChain.Application.dll
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Application\bin\Debug\net5.0\ref\SIDCSupplyChain.Application.dll
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Application\bin\Debug\net5.0\SIDCSupplyChain.Application.pdb
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Application\bin\Debug\net5.0\SIDCSupplyChain.Domain.dll
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Application\bin\Debug\net5.0\SIDCSupplyChain.Domain.pdb
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Application\obj\Debug\net5.0\SIDCSupplyChain.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Application\obj\Debug\net5.0\SIDCSupplyChain.Application.AssemblyInfoInputs.cache
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Application\obj\Debug\net5.0\SIDCSupplyChain.Application.AssemblyInfo.cs
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Application\obj\Debug\net5.0\SIDCSupplyChain.Application.csproj.CoreCompileInputs.cache
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Application\obj\Debug\net5.0\SIDCSupplyChain.Application.csproj.CopyComplete
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Application\obj\Debug\net5.0\SIDCSupplyChain.Application.dll
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Application\obj\Debug\net5.0\ref\SIDCSupplyChain.Application.dll
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Application\obj\Debug\net5.0\SIDCSupplyChain.Application.pdb
+D:\Work\SIDC\LSE 2021\Practices\AspNet\SIDCSupplyChain\SIDCSupplyChain.Application\obj\Debug\net5.0\SIDCSupplyChain.Application.csproj.AssemblyReference.cache
