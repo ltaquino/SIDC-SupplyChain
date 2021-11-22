@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rhxxMuKeH6/ipVjHKgHqyKqNGT+yO5RHEzc/tRKU0xeMTak8pZHJ6dRHjuosRF/B3nS36FwXgQcRAoiIKP3U3Q==",
+  "dgSpecHash": "7mA23QzUmlKHZz9jxpMA/5kwjJfWGTt8ROXfpcT2HWmUCg6LDFJljlKr3XXZjp2XUkJgfNyVeo8rv4LyV8Sgsg==",
   "success": true,
   "projectFilePath": "D:\\Work\\SIDC\\LSE 2021\\Practices\\AspNet\\SIDCSupplyChain\\SIDCSupplyChain.Api\\SIDCSupplyChain.Api.csproj",
   "expectedPackageFiles": [
@@ -167,8 +167,7 @@
     "C:\\Users\\inad\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\inad\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\inad\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\inad\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\inad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+    "C:\\Users\\inad\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
