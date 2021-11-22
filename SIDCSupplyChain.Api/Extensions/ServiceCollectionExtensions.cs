@@ -110,8 +110,8 @@ namespace SIDCSupplyChain.Api.Extensions
                 string applicationConnection = configuration.GetConnectionString("ApplicationConnection");
                 string identityConnection = configuration.GetConnectionString("IdentityConnection");
 
-                services.AddDbContext<IdentityContext>(options => options.UseMySql(applicationConnection, ServerVersion.AutoDetect(applicationConnection)));
-                services.AddDbContext<ApplicationDbContext>(options => options.UseMySql(identityConnection, ServerVersion.AutoDetect(applicationConnection),
+                services.AddDbContext<IdentityContext>(options => options.UseMySql(identityConnection, ServerVersion.AutoDetect(identityConnection)));
+                services.AddDbContext<ApplicationDbContext>(options => options.UseMySql(applicationConnection, ServerVersion.AutoDetect(applicationConnection),
                         sql => sql.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName)
                     ));
 
