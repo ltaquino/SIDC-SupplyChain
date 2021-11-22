@@ -338,3 +338,15 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+
+./SIDCSupplyChain.Api/bin/*.*
+./SIDCSupplyChain.Api/obj/*.*
+./SIDCSupplyChain.Application/bin/*.*
+./SIDCSupplyChain.Application/obj/*.*
+./SIDCSupplyChain.Domain/bin/*.*
+./SIDCSupplyChain.Domain/obj/*.*
+./SIDCSupplyChain.Infrastructure/bin/*.*
+./SIDCSupplyChain.Infrastructure/obj/*.*
+./SIDCSupplyChain.Infrastructure.Shared/bin/*.*
+./SIDCSupplyChain.Infrastructure.Shared/obj/*.*

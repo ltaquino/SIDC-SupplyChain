@@ -1,0 +1,128 @@
+{
+	"info": {
+		"_postman_id": "762bc044-a734-4366-a578-950eb596c6d4",
+		"name": "SIDC-SupplyChain",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Identity",
+			"item": [
+				{
+					"name": "Register",
+					"protocolProfileBehavior": {
+						"disabledSystemHeaders": {
+							"content-type": true
+						}
+					},
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							},
+							{
+								"key": "origin",
+								"value": "https://localhost:44377",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"firstName\": \"lenard\",\r\n  \"lastName\": \"aquino\",\r\n  \"email\": \"lenard2@aquino.com\",\r\n  \"userName\": \"inad27894566\",\r\n  \"password\": \"Opwpwpwpw55\",\r\n  \"confirmPassword\": \"Opwpwpwpw55\"\r\n}"
+						},
+						"url": {
+							"raw": "{{host}}/identity/register",
+							"host": [
+								"{{host}}"
+							],
+							"path": [
+								"identity",
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Token",
+					"protocolProfileBehavior": {
+						"disabledSystemHeaders": {
+							"content-type": true
+						}
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"email\": \"superadmin@gmail.com\",\r\n  \"password\": \"123Pa$$word!\"\r\n}"
+						},
+						"url": {
+							"raw": "{{host}}/identity/token",
+							"host": [
+								"{{host}}"
+							],
+							"path": [
+								"identity",
+								"token"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "{{token}}",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "token",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzdXBlcmFkbWluIiwianRpIjoiNGNkNTRkOTAtZGI2OS00YTRlLWJjYTAtMjFlNTQ1ZTNjMTg4IiwiZW1haWwiOiJzdXBlcmFkbWluQGdtYWlsLmNvbSIsInVpZCI6IjMxYTVjMmNmLWQ1ZGItNGJhNy05M2RhLWRjYWMxMTEyNzQzNSIsImZpcnN0X25hbWUiOiJNdWtlc2giLCJsYXN0X25hbWUiOiJNdXJ1Z2FuIiwiZnVsbF9uYW1lIjoiTXVrZXNoIE11cnVnYW4iLCJpcCI6IjAuMC4wLjEiLCJyb2xlcyI6WyJBZG1pbiIsIlN1cGVyQWRtaW4iLCJCYXNpYyIsIk1vZGVyYXRvciJdLCJuYmYiOjE2Mzc1NjQ1NzIsImV4cCI6MTYzNzU2ODE3MiwiaXNzIjoiU0lEQ1N1cHBseUNoYWluLkFwaSIsImF1ZCI6IlNJRENTdXBwbHlDaGFpbi5BcGkuVXNlciJ9.Oqm0P_i2sOypXgOoF-DkGdL8-eKD4bYPK_UzyWz5wWo"
+		},
+		{
+			"key": "host",
+			"value": "https://localhost:44377/api"
+		}
+	]
+}
